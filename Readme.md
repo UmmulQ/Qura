@@ -1,1 +1,1 @@
-# Qura >
+# Qura Project
